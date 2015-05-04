@@ -19,7 +19,7 @@
             }(document, 'script', 'facebook-jssdk'));
         </script>
 
-        <div>
+        <div
             class="fb-like"
             data-share="true"
             data-width="450"
